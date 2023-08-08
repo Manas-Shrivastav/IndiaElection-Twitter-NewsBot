@@ -1,15 +1,9 @@
-!python --version
-
 !pip install openai
 
 from google.colab import drive
 drive.mount('/content/drive')
 
-# Commented out IPython magic to ensure Python compatibility.
-# %cd "//content/drive/MyDrive/NewsBot/"
-
-# A tutorial for this file is available at www.relataly.com
-# Tested with Python 3.9.13, 1.2.0, Pandas 1.3.4, OpenAI 0.27.3, Tweepy 4.13.0, Requests 2.26.0,
+%cd "//content/drive/MyDrive/NewsBot/"
 
 import yaml
 import logging
