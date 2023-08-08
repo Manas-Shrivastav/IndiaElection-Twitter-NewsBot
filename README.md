@@ -1,5 +1,6 @@
 # IndiaElection-Twitter-NewsBot
 As the 2024 General Elections in India draw near, the need for accurate, real-time information has never been more critical. Imagine having a dedicated ally that not only keeps you abreast of the latest political developments but also engages you in insightful conversations and delivers news with a dash of wit. Enter our project – the 2024 India Elections NewsBot (Powered by ChatGPT and NewsAPI).
+This project is done in colaboration with @Maverick-Morningstar
 
 # Step 1: Set Up a [Twitter Developer Account](https://developer.twitter.com/en/docs/developer-portal/overview)
 
@@ -39,7 +40,7 @@ Test the Bot Locally: Before deployment, run your bot locally to ensure it funct
 
 Create a Cloud Function: If you wish to automate your bot, you can use cloud platforms like [Google Cloud Functions](https://cloud.google.com/functions/) or [AWS Lambda](https://aws.amazon.com/lambda/). Deploy your code on the chosen platform. We have used GCP, and for that you will have to create an account and provide card details to google and then you’ll receive a 3 month trial period, after that if you wish to continue, google will charge. 
 
-You refer and edit the gcp_main_function.py and requirements.txt files according to your code.
+You refer and edit the [gcp_main_function.py](https://github.com/Manas-Shrivastav/IndiaElection-Twitter-NewsBot/blob/main/gcp_main_function.py) and [requirements.txt](https://github.com/Manas-Shrivastav/IndiaElection-Twitter-NewsBot/blob/main/requirements.txt) files according to your code.
 
 Additionally, you can configure Environment Variables by safely storing your API keys and tokens as environment variables within the cloud platform.
 
