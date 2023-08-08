@@ -1,6 +1,9 @@
 # IndiaElection-Twitter-NewsBot ([@IndiaElectionBuzz](https://twitter.com/ElecBuzzIN))
-As the 2024 General Elections in India draw near, the need for accurate, real-time information has never been more critical. Imagine having a dedicated ally that not only keeps you abreast of the latest political developments but also engages you in insightful conversations and delivers news with a dash of wit. Enter our project – the 2024 India Elections NewsBot (Powered by ChatGPT and NewsAPI).
-This project is done in colaboration with @Maverick-Morningstar
+As the 2024 General Elections in India draw near, the need for accurate, real-time information has never been more critical. Imagine having a dedicated ally that not only keeps you abreast of the latest political developments but also engages you in insightful conversations and delivers news with a dash of wit.
+
+_**Enter our project – the 2024 India Elections NewsBot** (Powered by ChatGPT and NewsAPI)_.
+
+***This project is done in colaboration with [Tejaswi Harsh](https://github.com/Maverick-Morningstar)***
 
 # Step 1: Set Up a [Twitter Developer Account](https://developer.twitter.com/en/docs/developer-portal/overview)
 
